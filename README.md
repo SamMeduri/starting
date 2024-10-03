@@ -1,0 +1,2 @@
+# starting
+Familiarizing with github
